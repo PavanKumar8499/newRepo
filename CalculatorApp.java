@@ -2,7 +2,7 @@ package secondAs;
 
 import java.util.Scanner;
 
-public class CalculatorApp {
+public class TaxCalculatorApp {
 	
 	public static void calculateTax(String name, long income) {
 		
